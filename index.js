@@ -9,4 +9,4 @@ const rootDir = path.join(process.cwd(), '.sukuna-md-runtime');
 
 try {
   console.log('[SUKUNA] Downloading SUKUNA MD...');
-  const runtime
+  
